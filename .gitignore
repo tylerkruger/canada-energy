@@ -8,3 +8,9 @@ data/
 # Ignore temporary files
 *.tmp
 *.log
+
+# Ignore virtual environment
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
