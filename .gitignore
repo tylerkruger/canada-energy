@@ -1,0 +1,10 @@
+# Ignore data folder
+data/
+
+# Ignore CSV and Excel files
+*.csv 
+*.xlsx
+
+# Ignore temporary files
+*.tmp
+*.log
